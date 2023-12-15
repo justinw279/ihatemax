@@ -3,5 +3,6 @@ public class Main {
         System.out.println("i hate max!!!");
         System.out.println("Yo Tambien :)");
         System.out.println("Quazi is poopy head");
+        System.out.println("No Max :(");
     }
 }
